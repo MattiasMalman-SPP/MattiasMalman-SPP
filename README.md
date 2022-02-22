@@ -5,9 +5,9 @@
 
 <!-- "About" section -->
 <p align="center">
-  I'm a Developer in the team DigiDocs at SPP
+  I'm a Developer in the team DigiDocs at SPP :nerd_face:
 </p>
 
 <p align="center">
-  E-mail me at: mattias.malman@spp.se
+  E-mail me at: <a href="mailto:mattias.malman@spp.se">mattias.malman@spp.se</a> :love_letter:
 </p>
