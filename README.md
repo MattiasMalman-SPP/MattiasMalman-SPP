@@ -1,4 +1,13 @@
+<!-- Header -->
+<h2 align="center">
+  Hi, I'm Mattias Mälman :wave:
+</h2>
+
+<!-- "About" section -->
 <p align="center">
-  <img height="auto" width="auto" src="https://github-readme-stats.vercel.app/api?username=MattiasMalman-SPP&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="auto" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattiasMalman-SPP&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&langs_count=6">
+  I'm a Developer in the team DigiDocs at SPP :nerd_face:
+</p>
+
+<p align="center">
+  E-mail me at: <a href="mailto:mattias.malman@spp.se">mattias.malman@spp.se</a> :love_letter:
 </p>
